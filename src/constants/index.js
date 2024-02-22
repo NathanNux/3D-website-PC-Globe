@@ -28,15 +28,15 @@ import {
   export const navLinks = [
     {
       id: "about",
-      title: "About",
+      title: "O Nás",
     },
     {
       id: "work",
-      title: "Work",
+      title: "Projekty",
     },
     {
       id: "contact",
-      title: "Contact",
+      title: "Kontakt",
     },
   ];
   
@@ -122,10 +122,10 @@ import {
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Vývoj a údržba webových aplikací pomocí React.js a dalších souvisejících technologií.",
+        "Spolupráce s mezifunkčními týmy včetně designérů, produktových manažerů a dalších vývojářů na vytváření vysoce kvalitních produktů.",
+        "Implementace responzivního designu a zajištění kompatibility napříč prohlížeči.",
+        "Účast na kontrolách kódu a poskytování konstruktivní zpětné vazby ostatním vývojářům.",
       ],
     },
     {
@@ -135,10 +135,10 @@ import {
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Vývoj a údržba webových aplikací pomocí React.js a dalších souvisejících technologií.",
+        "Spolupráce s mezifunkčními týmy včetně designérů, produktových manažerů a dalších vývojářů na vytváření vysoce kvalitních produktů.",
+        "Implementace responzivního designu a zajištění kompatibility napříč prohlížeči.",
+        "Účast na kontrolách kódu a poskytování konstruktivní zpětné vazby ostatním vývojářům.",
       ],
     },
     {
@@ -148,10 +148,10 @@ import {
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Vývoj a údržba webových aplikací pomocí React.js a dalších souvisejících technologií.",
+        "Spolupráce s mezifunkčními týmy včetně designérů, produktových manažerů a dalších vývojářů na vytváření vysoce kvalitních produktů.",
+        "Implementace responzivního designu a zajištění kompatibility napříč prohlížeči.",
+        "Účast na kontrolách kódu a poskytování konstruktivní zpětné vazby ostatním vývojářům.",
       ],
     },
     {
@@ -161,10 +161,10 @@ import {
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Vývoj a údržba webových aplikací pomocí React.js a dalších souvisejících technologií.",
+        "Spolupráce s mezifunkčními týmy včetně designérů, produktových manažerů a dalších vývojářů na vytváření vysoce kvalitních produktů.",
+        "Implementace responzivního designu a zajištění kompatibility napříč prohlížeči.",
+        "Účast na kontrolách kódu a poskytování konstruktivní zpětné vazby ostatním vývojářům.",
       ],
     },
   ];
@@ -172,7 +172,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+        "Myslela jsem si, že není možné udělat web tak krásný jako náš produkt, ale tým Centrum mi dokázal, že se mýlím.",
       name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
@@ -180,7 +180,7 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "Nikdy jsem se nesetkal s webovým vývojářem, který by se skutečně staral o úspěch svých klientů jako tým Centrum.",
       name: "Chris Brown",
       designation: "COO",
       company: "DEF Corp",
@@ -188,7 +188,7 @@ import {
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "Poté, co tým Centrum optimalizoval náš web, vzrostla naše návštěvnost o 50 %. Nemůžeme jim dostatečně poděkovat!",
       name: "Lisa Wang",
       designation: "CTO",
       company: "456 Enterprises",
